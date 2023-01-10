@@ -24,5 +24,11 @@
       "name": "manoj",
       "password": "12345"
     }
+  ],
+  "signup": [
+    {
+      "name": "manoj",
+      "password": "12345"
+    }
   ]
 }
