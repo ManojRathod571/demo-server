@@ -19,7 +19,7 @@
       "Price": 800000
     }
   ],
-  "login": [
+  "sign_in": [
     {
       "name": "manoj",
       "password": "12345"
