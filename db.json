@@ -18,5 +18,9 @@
       "Description": "Tata Nexon with all original documents",
       "Price": 800000
     }
-  ]
+  ],
+  "login": {
+    "name": "manoj",
+    "password": "1245"
+  }
 }
