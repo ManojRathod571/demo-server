@@ -1,18 +1,67 @@
 {
-  "dogs": [
+  "products": [
     {
       "id": 1,
-      "name": "Cherry",
-      "age": 2,
-      "place": "Visakhapatnam",
-      "gender": "Male"
+      "name": "Apple iPhone 12",
+      "price": 799.99,
+      "description": "The latest iPhone with a dual-camera system, 5G support, and a sleek design.",
+      "image_url": "https://example.com/iphone12.jpg",
+      "category": "Phones",
+      "in_stock": true
     },
     {
-      "id": 1,
-      "name": "Tommy",
-      "age": 3,
-      "place": "Banglore",
-      "gender": "Female"
+      "id": 2,
+      "name": "Samsung Galaxy S21",
+      "price": 999.99,
+      "description": "The latest Samsung flagship phone with a triple-camera system and 5G support.",
+      "image_url": "https://example.com/galaxys21.jpg",
+      "category": "Phones",
+      "in_stock": true
+    },
+    {
+      "id": 3,
+      "name": "MacBook Pro 16-inch",
+      "price": 2399.99,
+      "description": "The latest MacBook Pro with a 16-inch Retina display and powerful performance.",
+      "image_url": "https://example.com/macbookpro16.jpg",
+      "category": "Laptops",
+      "in_stock": false
+    },
+    {
+      "id": 4,
+      "name": "iPad Pro",
+      "price": 799.99,
+      "description": "The latest iPad Pro with a powerful A12Z Bionic chip and support for the Apple Pencil.",
+      "image_url": "https://example.com/ipadpro.jpg",
+      "category": "Tablets",
+      "in_stock": true
+    },
+    {
+      "id": 5,
+      "name": "Google Pixel 5",
+      "price": 699.99,
+      "description": "The latest Google Pixel phone with a dual-camera system and 5G support.",
+      "image_url": "https://example.com/pixel5.jpg",
+      "category": "Phones",
+      "in_stock": false
+    },
+    {
+      "id": 6,
+      "name": "Surface Pro 7",
+      "price": 999.99,
+      "description": "The latest Surface Pro with a 12.3-inch display and powerful performance.",
+      "image_url": "https://example.com/surfacepro7.jpg",
+      "category": "Tablets",
+      "in_stock": true
+    },
+    {
+      "id": 7,
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "price": 1499.99,
+      "description": "A lightweight business laptop with a 14-inch display and long battery life.",
+      "image_url": "https://example.com/thinkpadx1carbon.jpg",
+      "category": "Laptops",
+      "in_stock": true
     }
   ]
 }
